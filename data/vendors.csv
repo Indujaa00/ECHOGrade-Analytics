@@ -1,0 +1,8 @@
+Vendor,Distance_km,Price_per_kg,Capacity_kg_per_day,Notes
+TNPL,25,12.5,10000,Tamil Nadu Newsprint and Papers Limited. Government-backed buyer. Accepts office-grade and newsprint. Requires minimum 500 kg per delivery.
+ITC GreenCycle,18,13.0,8000,ITC's managed paper recycling initiative. Best per-kg rate in dataset. Accepts mixed office paper. Has collection centre near Perungudi.
+Papco,30,11.8,5000,Private recycler based in Tambaram. Accepts mixed grades. Transport cost disadvantage due to distance.
+Local Recycler A,8,10.5,2000,Small-scale informal aggregator near Velachery. Best distance but lowest price. Limited capacity.
+Local Recycler B,12,11.0,3000,Mid-scale recycler near Sholinganallur. Moderate price and distance. Suitable for smaller volumes.
+Green Future Recycling,22,12.8,6000,Certified recycler with ISO 14001. Accepts all paper grades including cardboard. Slightly lower price than ITC but closer.
+Chennai Paper Mart,15,11.5,4000,General waste paper trader. Inconsistent pricing. Distance advantage partially offset by lower rate.
